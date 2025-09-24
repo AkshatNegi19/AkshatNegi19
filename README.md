@@ -1,5 +1,5 @@
 # 💫Welcome to My Profile:
- I’m a BSc Data Analytics student at Delhi Skill and Entrepreneurship University, <br>passionate about Web Development programming language,libraries,and tools.<br>
+ I’m a BSc Data Analytics student at Delhi Skill and Entrepreneurship University,passionate about Web Development programming language,libraries,and tools.<br>
 
 <h1 align="center">Hi 👋, I'm Akshat Negi</h1>
 
