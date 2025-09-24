@@ -3,9 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Akshat Negi</h1>
 
-<p align="center">
-  <img src="robot.gif" width="420" alt="Robot Demo">
-</p>
+![robot.gif](attachment:93f63574-f276-4e81-a53e-288beeaf37ed.gif)
 
 - 🔭 I’m currently working on **TypeScript Project**
 
