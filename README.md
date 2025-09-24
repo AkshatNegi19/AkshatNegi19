@@ -3,11 +3,11 @@
 
 <h1 align="center">Hi 👋, I'm Akshat Negi</h1>
 
-<video src="robot gif.mp4" controls width="420px" height="225px"></video>
+<p align="center">
+  <img src="robot.gif" width="420" alt="Robot Demo">
+</p>
 
 - 🔭 I’m currently working on **TypeScript Project**
-  
-- You can see all my projects at <a href="https://github.com/dashboard">Home Page</a>.
 
 - 🌱 I’m currently learning **Node JS**
 
@@ -16,6 +16,8 @@
 - 📫 How to reach me **negiakt05@gmail.com**
 
 - 😄 Fun fact: I believe debugging is 90% therapy & 10% coding
+
+- You can see all my projects at <a href="https://github.com/dashboard">Home Page</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
