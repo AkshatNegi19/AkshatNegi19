@@ -14,7 +14,7 @@ Passionate about building scalable full-stack web applications and solving real-
 
 - 💻 Full Stack Application Developer Intern at **Infigos Software Solutions**
 - 🎓 B.Sc. Data Analytics Student at **Delhi Skill and Entrepreneurship University**
-- 🌱 Currently learning **Docker, System Design & Advanced Backend Development**
+- 🌱 Currently learning **System Design & Advanced Backend Development**
 - 🔭 Building **production-ready MERN applications**
 - 📚 Solved **350+ LeetCode Problems**
 - 🏆 **Institute Rank 1** on GeeksforGeeks
