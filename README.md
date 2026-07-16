@@ -141,7 +141,7 @@ A full-stack MERN application where users can:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/akshatnegi20" target="_blank">
+<a href="https://www.geeksforgeeks.org/profile/akshatnegi20?tab=activity" target="_blank">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
