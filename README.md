@@ -161,32 +161,42 @@ A full-stack MERN application where users can:
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkshatNegi19&show_icons=true&theme=default"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshatNegi19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatNegi19"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatNegi19&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatNegi19&layout=compact"/>
+</div>
 
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatNegi19&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshatNegi19&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkshatNegi19&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkshatNegi19&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkshatNegi19&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkshatNegi19&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
 
 ---
-
-<p align="center">
-
-![](https://visitcount.itsvg.in/api?id=AkshatNegi19&icon=0&color=0)
-
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-
-<p align="center">
-<i>Code • Learn • Build • Repeat 🚀</i>
-</p>
