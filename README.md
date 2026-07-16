@@ -141,8 +141,8 @@ A full-stack MERN application where users can:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/AkshatNegi19" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="YOUR_GFG_PROFILE_LINK" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/AkshatNegi20/" target="_blank">
