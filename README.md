@@ -17,7 +17,6 @@ Passionate about building scalable full-stack web applications and solving real-
 - 🌱 Currently learning **System Design & Advanced Backend Development**
 - 🔭 Building **production-ready MERN applications**
 - 📚 Solved **350+ LeetCode Problems**
-- 🏆 **Institute Rank 1** on GeeksforGeeks
 - 🎯 Looking for **Full Stack / MERN Developer Opportunities**
 - ⚡ Fun Fact: *Debugging is 90% therapy and 10% coding.*
 
@@ -123,8 +122,6 @@ A full-stack MERN application where users can:
 ---
 
 # 🏆 Achievements
-
-🥇 Institute Rank 1 on GeeksforGeeks
 
 💻 350+ LeetCode Problems Solved
 
