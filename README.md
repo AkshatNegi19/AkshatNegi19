@@ -5,7 +5,11 @@ Full Stack Developer (MERN) | Java | React | Node.js | Express.js | MongoDB
 </h3>
 
 <p align="center">
-Passionate about building scalable full-stack web applications and solving real-world problems through clean and efficient code.
+Passionate about building scalable full-stack web applications and solving real-world problems with clean, efficient, and maintainable code.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkshatNegi19&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
@@ -15,8 +19,8 @@ Passionate about building scalable full-stack web applications and solving real-
 - 💻 Full Stack Application Developer Intern at **Infigos Software Solutions**
 - 🎓 B.Sc. Data Analytics Student at **Delhi Skill and Entrepreneurship University**
 - 🌱 Currently learning **System Design & Advanced Backend Development**
-- 🔭 Building **production-ready MERN applications**
-- 📚 Solved **350+ LeetCode Problems**
+- 🔭 Building scalable, production-ready MERN applications
+- 📚 Solved **350+ LeetCode Problems** and actively practicing Data Structures & Algorithms
 - 🎯 Looking for **Full Stack / MERN Developer Opportunities**
 - ⚡ Fun Fact: *Debugging is 90% therapy and 10% coding.*
 
@@ -68,11 +72,12 @@ Passionate about building scalable full-stack web applications and solving real-
 
 ---
 
-## 🚀 Upcoming Project
+## 🚀 Current Project
 
 ### AI Learning Platform
+**Tech Stack:** React • TypeScript • Node.js • Express.js • MongoDB • Tailwind CSS • JWT
 
-A full-stack MERN application where users can:
+A production-ready MERN application that enables users to:
 
 - Search any technology
 - Get recommended learning videos
@@ -123,13 +128,13 @@ A full-stack MERN application where users can:
 
 # 🏆 Achievements
 
+🥇 GeeksforGeeks Institute Rank 1
+
 💻 350+ LeetCode Problems Solved
 
 🚀 Full Stack Application Developer Intern at Infigos Software Solutions
 
 🎓 B.Sc. Data Analytics (CGPA: 8.95)
-
----
 
 # 🌐 Connect With Me
 
